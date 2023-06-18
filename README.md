@@ -40,13 +40,13 @@ Existem várias maneiras de obter a cidadania italiana. A cidadania italiana é 
 __Aqui iremos descrever nossa experiência na obtenção da cidadania italiana por descendência (item 1)__
 
 
-#### Antepassados Italianos
+## :family_man_woman_girl: Cidadania por descendência
 
 Se você possui antepassados italianos, o primeiro passo é levantar o máximo de informações que leve até a origem do seu antepassado.
 
 Para isso tente falar com seus parentes ou conhecidos para descobrir o local de nascimento de seu atepassado ou até mesmo utilize sites como [Family Search](https://www.familysearch.org/pt-br) para obter informações.
 
-Você tambem pode ir até o cartorio e solicitar uma certidão de inteiro teor, como casamento, óbito ou outras que obtenham alguma informação que o ajude a descobrir a origem de seu antepassado na italia.
+Você tambem pode ir até o cartorio e solicitar uma [certidão de inteiro teor](https://cartorionobrasil.com.br/artigos/certidao-de-inteiro-teor/), como casamento, óbito ou outras que obtenham alguma informação que o ajude a descobrir a origem de seu antepassado na italia.
 
 __Árvore Genealógica__
 
@@ -63,7 +63,7 @@ __Certidão de Nascimento - Ancestral Italiano__
 
 Com todas as informações em mãos sobre onde nasceu seu antepassado italiano que te concede o direito a cidadania, é hora de conseguir um cópia da certidão de nascimento. 
 
-Essa etapa pode ser um pouco mais dificil, pois alguns italianos tem suas certidões registradas em comunes e alguns até me igrejas. Mas não desanime. Você pode enviar um e-mail a comune(digamos que é a prefeitura da cidade em que nasceu seu antepassado) solicitando informações e se por acaso a certidão de nascimento se encontra naquela comune.
+Essa etapa pode ser um pouco mais dificil, pois alguns italianos tem suas certidões registradas em comunes e alguns até mesmo em igrejas. Mas não desanime. Você pode enviar um e-mail a comune(digamos que é a prefeitura da cidade em que nasceu seu antepassado) solicitando informações e se por acaso a certidão de nascimento se encontra naquela comune.
 
 Um ótima dica é utilizar o "ChatGPT", para escrever sua mensagem em português e pedir que ele traduza para o italiano e modifique sua mensagem de forma que seja cordial sua solicitação.
 
@@ -93,3 +93,11 @@ Cordiali saluti,
 [SEU NUMERO DE TELEFONE]
 
 ```
+
+*Encontrei a certidão, o que fazer agora?*
+
+Agora é preciso obter uma cópia da certidão do antepassado italiano. Você pode solicitar direto a comune para te enviar até ao Brasil, mas isso tem custos e nem todas as comunes enviam ao Brasil.
+Então você pode solicitar que a comune envie uma cópia da certidão pelos correios (na italia os correios chama-se [Poste Italiane](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj1yPbPjc3_AhXER_EDHWbnCJQQFnoECBEQAQ&url=https%3A%2F%2Fwww.poste.it%2F&usg=AOvVaw2my9FSmxJa_wW2RlozOFmS&opi=89978449)) a algum amigo ou conhecido na italia e esta pessoa envia a você até o Brasil. 
+
+Caso você realize o processo aqui na italia, pode pegar a certidão quando chegar na italia, evitando os custos de envio ao Brasil.
+
