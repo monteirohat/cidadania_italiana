@@ -48,7 +48,7 @@ Para isso tente falar com seus parentes ou conhecidos para descobrir o local de 
 
 Você tambem pode ir até o cartorio e solicitar uma [certidão de inteiro teor](https://cartorionobrasil.com.br/artigos/certidao-de-inteiro-teor/), como casamento, óbito ou outras que obtenham alguma informação que o ajude a descobrir a origem de seu antepassado na italia.
 
-__Árvore Genealógica__
+#### __Árvore Genealógica__
 
 Para facilitar na compreensão e na montagem de um checklist de toda a documentação necessária, monte um gráfico(organograma) da sua árvore genealógica, começando do ancestral italiano até você.
 
@@ -59,7 +59,28 @@ A árvore genealógica não é obrigatória, mas irá te auxiliar na organizaç�
 ![Texto alternativo](./imagens/arvore_genealogica.png)
 
 
-__Certidão de Nascimento - Ancestral Italiano__
+#### __Certidões e Documentos__
+
+Agora é preciso montar uma lista com os nomes das pessoas que estão diretamente ligadas do ancestral italiano até você.
+
+Exemplo:
+Se seu bisavô é o antepassado italiano, você precisa dos seguintes documentos:
+
+- Certidão de Nascimento do seu Bisavô
+- Certidão de Óbito do seu bisavô
+- Certidão de Nascimento do seu Avô ou Avó (filho ou filha do seu bisavô italiano)
+- Certidão de Casamento do seu Avô ou Avó (filho ou filha do seu bisavô italiano)
+- Certidão de Óbito do seu Avô ou Avó (filho ou filha do seu bisavô italiano - caso seja falecido)
+- Certidão de Nascimento do seu Pai ou Mãe (filho ou filha do avô ou avó descendente do italiano)
+- Certidão de Casamento do seu Pai ou Mãe (filho ou filha do avô ou avó descendente do italiano)
+- Certidão de Óbito do seu Pai ou Mãe (filho ou filha do avô ou avó descendente do italiano - caso falecido)
+- Certidão de Nascimento sua.
+
+__ATENÇÃO !!!!!!!__
+
+*Todas as certidões devem ser solicitadas no cartório no formato [INTEIRO TEOR](https://cartorionobrasil.com.br/artigos/certidao-de-inteiro-teor/).*
+
+__- *CERTIDÃO DE NASCIMENTO - ANCESTRAL ITALIANO*:__
 
 Com todas as informações em mãos sobre onde nasceu seu antepassado italiano que te concede o direito a cidadania, é hora de conseguir um cópia da certidão de nascimento. 
 
@@ -94,10 +115,12 @@ Cordiali saluti,
 
 ```
 
-*Encontrei a certidão, o que fazer agora?*
+__*Encontrei a certidão, o que fazer agora?*__
 
 Agora é preciso obter uma cópia da certidão do antepassado italiano. Você pode solicitar direto a comune para te enviar até ao Brasil, mas isso tem custos e nem todas as comunes enviam ao Brasil.
 Então você pode solicitar que a comune envie uma cópia da certidão pelos correios (na italia os correios chama-se [Poste Italiane](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj1yPbPjc3_AhXER_EDHWbnCJQQFnoECBEQAQ&url=https%3A%2F%2Fwww.poste.it%2F&usg=AOvVaw2my9FSmxJa_wW2RlozOFmS&opi=89978449)) a algum amigo ou conhecido na italia e esta pessoa envia a você até o Brasil. 
 
 Caso você realize o processo aqui na italia, pode pegar a certidão quando chegar na italia, evitando os custos de envio ao Brasil.
+
+__- *APOSTILAMENTO*__
 
