@@ -46,7 +46,7 @@ Se você possui antepassados italianos, o primeiro passo é levantar o máximo d
 
 Para isso tente falar com seus parentes ou conhecidos para descobrir o local de nascimento de seu atepassado ou até mesmo utilize sites como [Family Search](https://www.familysearch.org/pt-br) para obter informações.
 
-Você tambem pode ir até o cartorio e solicitar uma [certidão de inteiro teor](https://cartorionobrasil.com.br/artigos/certidao-de-inteiro-teor/), como casamento, óbito ou outras que obtenham alguma informação que o ajude a descobrir a origem de seu antepassado na italia.
+Você tambem pode ir até o cartorio e solicitar uma [certidão de inteiro teor](https://cartorionobrasil.com.br/artigos/certidao-de-inteiro-teor/), como casamento, óbito ou outras que obtenham alguma informação que o ajude a descobrir a origem de seu antepassado na Italia.
 
 #### __Árvore Genealógica__
 
