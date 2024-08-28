@@ -1,7 +1,7 @@
 # Cidadania Italiana :it:
 Este documento tem como objetivo descrever alguns passos para a aquisição da cidadania italiana. As informações aqui apresentadas são baseadas no autoconhecimento e na experiência que obtive ao fazer o processo de cidadania italiana para a minha família. Algumas partes do processo podem mudar dependo do seu caso. 
 
-Com a experiência obtida na aquisição da cidadania diretamente aqui na itália, percebi que muitas pessoas mal intencionadas (inclusive brasileiros que se dizem consultores) aproveitam da falta de conhecimento do processo e a dificuldade de falar o italiano para vender uma consultoria extramamente cara e sem nenhuma garantia.
+Com a experiência obtida na aquisição da cidadania diretamente aqui na Itália, percebi que muitas pessoas mal intencionadas (inclusive brasileiros que se dizem consultores) aproveitam da falta de conhecimento do processo e a dificuldade de falar o italiano para vender uma consultoria extramamente cara e sem nenhuma garantia.
 
 __Não sou consultor e nem vendo nenhum serviço relacionado a cidadania, mas deixo aqui todas as informações que obtive durante o processo, como objetivo de auxiliar outros brasileiros a conseguir a sonhada cidadania.__
 
